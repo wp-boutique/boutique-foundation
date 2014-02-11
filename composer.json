@@ -2,7 +2,7 @@
     "name": "boutique/foundation",
     "description": "Boutique foundation.",
     "require": {
-        "illuminate/container": "dev-master"
+        "illuminate/container": "4.2.*@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "3.9.*@dev",
