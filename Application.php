@@ -2,7 +2,7 @@
 
 use Illuminate\Container\Container;
 
-class Boutique extends Container {
+class Application extends Container {
 
 
 
